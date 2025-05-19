@@ -1,6 +1,6 @@
 {
-  "homepage": "https://eestia.github.io/valorant/",
   "name": "exo4",
+  "homepage": "https://eestia.github.io/nft/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run deploy"
+    "predeploy": "npm run deploy",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
